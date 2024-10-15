@@ -11,7 +11,7 @@ const char* password = "R92GxdyDScyC";  // Your WiFi password
 //SAF WIFI AND PASSWORD
 // const char* ssid = "FiberHGW_ZTKE59_2.4GHz";
 // const char* password = "CsehqJzeg7";
-c:\Users\aymnb\Documents\Arduino\ESP8266_LCD_VOICERECOGNITION\ESP8266_VOICERECOGNITION_EN.ino
+
 
 ESP8266WebServer server(80);  // Web server on port 80
 
